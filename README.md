@@ -10,6 +10,17 @@ npm install
 npm run serve
 ```
 
+### Backend setup
+```
+pip install requirements.txt
+```
+
+### Run backend
+```
+python backend.py
+```
+
+<!--
 ### Compiles and minifies for production
 ```
 npm run build
@@ -19,6 +30,7 @@ npm run build
 ```
 npm run test:unit
 ```
+-->
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
